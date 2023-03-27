@@ -1,0 +1,4 @@
+Enviar al remoto con 
+git add .
+git commit -am "mensaje"
+git push /nombre del remoto/ /branch/
